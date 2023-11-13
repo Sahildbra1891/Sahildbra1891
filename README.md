@@ -16,4 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <br>
+I am regular student of your classes 
+I want to become a devolper 
+but some problems stand up frond me for you
+
+
+
 
